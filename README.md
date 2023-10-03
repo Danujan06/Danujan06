@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning Machine learning and I am currently working mostly on React for the front end development and Java Spring for the back end development.
+I'm a Computer Engineering undergraduate at the University of Peradeniya with a strong passion for Machine Learning, Back-end Development, and the React framework. My academic journey has equipped me with the skills and knowledge to excel in these areas, and I'm eager to apply them in real-world projects and challenges. Whether it's training machine learning models, building robust back-end systems, or creating dynamic web applications with React, I'm always enthusiastic about pushing the boundaries of technology.
 
 
 # 💻 Tech Stack:
