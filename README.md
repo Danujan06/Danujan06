@@ -12,6 +12,7 @@ I'm a Computer Engineering undergraduate at the University of Peradeniya with a 
 ![](https://github-readme-stats.vercel.app/api?username=Danujan06&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Danujan06&theme=nightowl&hide_border=false)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danujan06&theme=2077)<br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danujan06&theme=2077" height="180em" />
 [![](https://visitcount.itsvg.in/api?id=Danujan06&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Danujan06&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Danujan06&theme=2077&utcOffset=8)
